@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+slowapi==0.1.10
+pytest
+httpx
